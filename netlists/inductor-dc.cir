@@ -1,0 +1,4 @@
+* Inductor behaves as a short in the DC operating point
+V1 1 0 5
+L1 1 2 1m
+R1 2 0 1k
